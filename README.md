@@ -1,0 +1,8 @@
+bot
+.addwelcome
+
+
+
+
+
+
